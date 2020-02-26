@@ -1,0 +1,15 @@
+Package: montyhall
+Title: Monty Hall Problem
+Version: 0.0.1.0000
+Authors@R: 
+    person(given = "Jason",
+           family = "Eastman",
+           role = c("aut", "cre"),
+           email = "jason.eastman@live.com"         
+Description: This package allows people to play with the Monty Hall Problem. You can run it once, or as many times as you like. It will display the statistical results in a table.
+Depends: 
+   dplyr
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
